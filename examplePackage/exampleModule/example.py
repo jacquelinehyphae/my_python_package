@@ -1,5 +1,5 @@
 import pandas
-from exampleHelper import subtract_helper
+from .exampleHelper import subtract_helper
 
 class Example:
   def __init__(self, x=1, y=2):
